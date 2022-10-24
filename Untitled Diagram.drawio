@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-24T07:33:57.694Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="QPRSBch9FdFL53mQ7KPA" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-24T07:34:16.146Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="WVrFX1LnExmAoibqnxr5" version="20.4.1" type="github">
   <diagram id="YKlcgn2YApg5S6SSq631" name="Page-1">
     <mxGraphModel dx="1888" dy="1818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -154,8 +154,17 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="lN6HmynDONI7tCiRwWhm-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="lN6HmynDONI7tCiRwWhm-60" target="lN6HmynDONI7tCiRwWhm-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lN6HmynDONI7tCiRwWhm-60" value="contact with customers" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-670" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lN6HmynDONI7tCiRwWhm-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.833;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lN6HmynDONI7tCiRwWhm-63" target="lN6HmynDONI7tCiRwWhm-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lN6HmynDONI7tCiRwWhm-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lN6HmynDONI7tCiRwWhm-63" target="lN6HmynDONI7tCiRwWhm-53">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lN6HmynDONI7tCiRwWhm-63" value="leads to" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-550" y="370" width="60" height="30" as="geometry" />
