@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-24T07:32:19.286Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="4l8Yogyf4-jyog-J5lzm" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-24T07:33:57.694Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="QPRSBch9FdFL53mQ7KPA" version="20.4.1" type="github">
   <diagram id="YKlcgn2YApg5S6SSq631" name="Page-1">
     <mxGraphModel dx="1888" dy="1818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -122,8 +122,11 @@
         <mxCell id="lN6HmynDONI7tCiRwWhm-44" value="&amp;nbsp;sometime includes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-10" y="270" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="lN6HmynDONI7tCiRwWhm-61" value="has more frequent" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lN6HmynDONI7tCiRwWhm-47" target="lN6HmynDONI7tCiRwWhm-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lN6HmynDONI7tCiRwWhm-47" value="Feedback" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-710" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="-800" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lN6HmynDONI7tCiRwWhm-54" value="how" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lN6HmynDONI7tCiRwWhm-48" target="lN6HmynDONI7tCiRwWhm-53">
           <mxGeometry relative="1" as="geometry" />
@@ -150,6 +153,12 @@
             <mxPoint x="-230" y="100" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lN6HmynDONI7tCiRwWhm-60" value="contact with customers" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-670" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lN6HmynDONI7tCiRwWhm-63" value="leads to" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="370" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
