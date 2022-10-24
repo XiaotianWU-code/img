@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-10-24T06:51:18.359Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="20.4.1" etag="EooECH5QGhRSNG89YrEP" type="github"><diagram id="YKlcgn2YApg5S6SSq631">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-24T07:04:54.981Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="b68huonh2VuHmpvT7CHi" version="20.4.1" type="github">
+  <diagram id="YKlcgn2YApg5S6SSq631" name="Page-1">
+    <mxGraphModel dx="1038" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lN6HmynDONI7tCiRwWhm-1" value="Focus Question: What is Extreme programming&lt;br&gt;&lt;div style=&quot;font-size: calc(0.875em); line-height: 1.6; position: relative; z-index: 0; color: rgb(32, 33, 34); font-family: sans-serif; text-align: start;&quot; class=&quot;vector-body&quot; id=&quot;bodyContent&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="250" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lN6HmynDONI7tCiRwWhm-2" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lN6HmynDONI7tCiRwWhm-3" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lN6HmynDONI7tCiRwWhm-4" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
