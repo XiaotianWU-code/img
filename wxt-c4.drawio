@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-17T14:36:30.360Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="rK0yk30P3p7kisirJ3Qb" version="20.5.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-11-17T15:14:40.242Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="FCsYV8dBhwHyEDl5aXA9" version="20.5.3" type="github" pages="5">
   <diagram id="ea4igI_uoOzWITEpafUu" name="Page-1">
     <mxGraphModel dx="2402" dy="1644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -548,29 +548,29 @@
     </mxGraphModel>
   </diagram>
   <diagram id="m_YPZ2-2OsnKHh_uE9IK" name="Page-3">
-    <mxGraphModel dx="936" dy="2116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="453" dy="1024" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="AANE2QFGvG4DuKSNhQcB-5" value="&lt;b&gt;Steps&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="111" y="225" width="60" height="30" as="geometry" />
+          <mxGeometry x="110" y="225" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AANE2QFGvG4DuKSNhQcB-7" value="&lt;b&gt;Tasks&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="111" y="310" width="60" height="30" as="geometry" />
+          <mxGeometry x="110" y="310" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AANE2QFGvG4DuKSNhQcB-8" value="Figure out what to do" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#FAFAFA;fillColor=#ffcc99;align=left;" parent="1" vertex="1">
           <mxGeometry x="190" y="295" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AANE2QFGvG4DuKSNhQcB-9" value="&lt;b&gt;Tools&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="110" y="395" width="60" height="30" as="geometry" />
+          <mxGeometry x="109" y="395" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AANE2QFGvG4DuKSNhQcB-10" value="&lt;span style=&quot;&quot;&gt;- User Persona&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;- User Journey Map&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#FFFFFF;fillColor=#fff2cc;align=left;" parent="1" vertex="1">
+        <mxCell id="AANE2QFGvG4DuKSNhQcB-10" value="&lt;span style=&quot;&quot;&gt;- User Persona&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;- User Story Map&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#FFFFFF;fillColor=#fff2cc;align=left;" parent="1" vertex="1">
           <mxGeometry x="190" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AANE2QFGvG4DuKSNhQcB-11" value="&lt;b&gt;Outputs&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="118" y="485" width="60" height="30" as="geometry" />
+          <mxGeometry x="116" y="485" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AANE2QFGvG4DuKSNhQcB-12" value="Core functions of software" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#FAFAFA;fillColor=#cce5ff;" parent="1" vertex="1">
+        <mxCell id="AANE2QFGvG4DuKSNhQcB-12" value="Backlog" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#FAFAFA;fillColor=#cce5ff;" parent="1" vertex="1">
           <mxGeometry x="188" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F2hbeYWUFWRhPEaJa0ri-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F2hbeYWUFWRhPEaJa0ri-2" target="F2hbeYWUFWRhPEaJa0ri-3">
@@ -588,10 +588,10 @@
         <mxCell id="F2hbeYWUFWRhPEaJa0ri-4" value="- Estimate time&lt;br&gt;- Assign task&lt;br&gt;- Kick off" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#FAFAFA;fillColor=#ffcc99;align=left;" vertex="1" parent="1">
           <mxGeometry x="350" y="295" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F2hbeYWUFWRhPEaJa0ri-5" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;/blockquote&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Board&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Work item&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#FFFFFF;fillColor=#fff2cc;align=left;" vertex="1" parent="1">
+        <mxCell id="F2hbeYWUFWRhPEaJa0ri-5" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;/blockquote&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Azure Boards&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#FFFFFF;fillColor=#fff2cc;align=left;" vertex="1" parent="1">
           <mxGeometry x="350" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F2hbeYWUFWRhPEaJa0ri-6" value="Ready to develop work items" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#FAFAFA;fillColor=#cce5ff;" vertex="1" parent="1">
+        <mxCell id="F2hbeYWUFWRhPEaJa0ri-6" value="- Ready to dev&lt;br&gt;- User story" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#FAFAFA;fillColor=#cce5ff;align=left;" vertex="1" parent="1">
           <mxGeometry x="348" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F2hbeYWUFWRhPEaJa0ri-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F2hbeYWUFWRhPEaJa0ri-7" target="F2hbeYWUFWRhPEaJa0ri-2">
@@ -603,7 +603,7 @@
         <mxCell id="F2hbeYWUFWRhPEaJa0ri-8" value="- Implement function&lt;br&gt;- Write test&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#FAFAFA;fillColor=#ffcc99;align=left;" vertex="1" parent="1">
           <mxGeometry x="510" y="294" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F2hbeYWUFWRhPEaJa0ri-9" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;/blockquote&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;- visual studio&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- visual studio code&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#FFFFFF;fillColor=#fff2cc;align=left;" vertex="1" parent="1">
+        <mxCell id="F2hbeYWUFWRhPEaJa0ri-9" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;/blockquote&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;- Azure Repos&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- Visual studio/code&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#FFFFFF;fillColor=#fff2cc;align=left;" vertex="1" parent="1">
           <mxGeometry x="510" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F2hbeYWUFWRhPEaJa0ri-10" value="Code" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#FAFAFA;fillColor=#cce5ff;" vertex="1" parent="1">
@@ -615,10 +615,10 @@
         <mxCell id="F2hbeYWUFWRhPEaJa0ri-11" value="Test" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#FFFFFF;fillColor=#B9E0A5;align=center;" vertex="1" parent="1">
           <mxGeometry x="660" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F2hbeYWUFWRhPEaJa0ri-12" value="Verification function" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#FAFAFA;fillColor=#ffcc99;align=left;" vertex="1" parent="1">
+        <mxCell id="F2hbeYWUFWRhPEaJa0ri-12" value="- Verification function&lt;br&gt;- Fix bug" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#FAFAFA;fillColor=#ffcc99;align=left;" vertex="1" parent="1">
           <mxGeometry x="660" y="294" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F2hbeYWUFWRhPEaJa0ri-13" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;ACs&lt;/div&gt;&lt;/span&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#FFFFFF;fillColor=#fff2cc;align=left;" vertex="1" parent="1">
+        <mxCell id="F2hbeYWUFWRhPEaJa0ri-13" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;/blockquote&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: right;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Azure Boards&lt;br&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#FFFFFF;fillColor=#fff2cc;align=left;" vertex="1" parent="1">
           <mxGeometry x="660" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F2hbeYWUFWRhPEaJa0ri-14" value="Verified code" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#FAFAFA;fillColor=#cce5ff;" vertex="1" parent="1">
@@ -633,7 +633,7 @@
         <mxCell id="F2hbeYWUFWRhPEaJa0ri-18" value="Delivery product" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#FAFAFA;fillColor=#cce5ff;" vertex="1" parent="1">
           <mxGeometry x="810" y="470" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F2hbeYWUFWRhPEaJa0ri-23" value="Azure pipline" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#FFFFFF;fillColor=#fff2cc;align=center;" vertex="1" parent="1">
+        <mxCell id="F2hbeYWUFWRhPEaJa0ri-23" value="Azure Pipline" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#FFFFFF;fillColor=#fff2cc;align=center;" vertex="1" parent="1">
           <mxGeometry x="810" y="380" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
