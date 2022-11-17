@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-17T08:30:59.530Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="QZ9VAqOgFWEh1sz2w1b9" version="20.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-17T11:10:44.249Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="XAtwMKucZNYrReZra4PT" version="20.5.3" type="github" pages="5">
   <diagram id="ea4igI_uoOzWITEpafUu" name="Page-1">
-    <mxGraphModel dx="2921" dy="805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2921" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -263,7 +263,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jZf5SM3OOhiDK-k_ycjC" name="Page-2">
-    <mxGraphModel dx="188" dy="-416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="428" dy="-416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -572,11 +572,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QJekgGFg1pesYypB8bJe-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;fillColor=#004FAF;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="50" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QJekgGFg1pesYypB8bJe-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;fillColor=#004FAF;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="50" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QJekgGFg1pesYypB8bJe-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;fillColor=#004FAF;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="50" width="80" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="vedl6Ow_n5OAKi4PMVPX-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#97D077;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-760" y="320" width="480" height="250" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:15px;color:#ffffff;font-weight: bold;&quot;&gt;Personal Reserving Customer&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#ffffff;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size:8.3px;color:#ffffff;&quot;&gt;[Person]&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#ffffff;&quot;&gt;A customer who wants to reverse a parking spot&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="7wz7zbzjAWsJ" id="vedl6Ow_n5OAKi4PMVPX-2">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#004faf;strokeWidth=2.3;" vertex="1" parent="1">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#004faf;strokeWidth=2.3;portConstraintRotation=0;" vertex="1" parent="1">
             <mxGeometry x="-770" y="110" width="180" height="100" as="geometry" />
           </mxCell>
         </UserObject>
@@ -586,27 +595,27 @@
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; line-height: 1.25; margin-top: -2px; font-size: 0px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:15px;color:#ffffff;font-weight: bold;&quot;&gt;The Guard&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#ffffff;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size:8.3px;color:#ffffff;&quot;&gt;[Person]&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#ffffff;&quot;&gt;The guard helps to check in or check out the order&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="7wz7zbzjAWsJ" id="vedl6Ow_n5OAKi4PMVPX-4">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#004faf;strokeWidth=2.3;" vertex="1" parent="1">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#004faf;strokeWidth=2.3;sketch=0;shadow=0;glass=0;rotatable=1;" vertex="1" parent="1">
             <mxGeometry x="-350" y="110" width="180" height="100" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; line-height: 1.25; margin-top: -2px; font-size: 0px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;Share Parking System&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size:8.3px;color:#333333;&quot;&gt;[Container: .Net ]&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;&quot;&gt; Provide core function&amp;nbsp; by RESTful API&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="nWz77IYYfrE6" id="vedl6Ow_n5OAKi4PMVPX-9">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#4d9eff;strokeWidth=2.3;" vertex="1" parent="1">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeOpacity=0;fillOpacity=100;rounded=0;absoluteArcSize=1;arcSize=9;fillColor=#4d9eff;strokeWidth=2.3;" vertex="1" parent="1">
             <mxGeometry x="-740" y="330" width="180" height="100" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:15px;color:#333333;font-weight: bold;&quot;&gt;Payment System&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size:8.3px;color:#333333;&quot;&gt;[Software System]&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;&quot;&gt; Provide the basic payment function for all roles payment and reconcliliation&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="7Vz7eOaU-oRB" id="vedl6Ow_n5OAKi4PMVPX-11">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#dfe3e8;strokeWidth=2.3;" vertex="1" parent="1">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeOpacity=0;fillOpacity=100;rounded=0;absoluteArcSize=1;arcSize=9;fillColor=#dfe3e8;strokeWidth=2.3;" vertex="1" parent="1">
             <mxGeometry x="-480" y="329" width="180" height="100" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:15px;color:#333333;font-weight: bold;&quot;&gt;Map System&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size:8.3px;color:#333333;&quot;&gt;[Software System]&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;&quot;&gt; Provide search, location and estimated distance service&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="7Vz7eOaU-oRB" id="vedl6Ow_n5OAKi4PMVPX-12">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#dfe3e8;strokeWidth=2.3;" vertex="1" parent="1">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeOpacity=0;fillOpacity=100;rounded=0;absoluteArcSize=1;arcSize=9;fillColor=#dfe3e8;strokeWidth=2.3;" vertex="1" parent="1">
             <mxGeometry x="-740" y="460" width="180" height="100" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:15px;color:#333333;font-weight: bold;&quot;&gt;Distribution System&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size:8.3px;color:#333333;&quot;&gt;[Software System]&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;&quot;&gt; Provide AI technology for auto distributing space, aiming to increase the plot ratio of space&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="7Vz7eOaU-oRB" id="vedl6Ow_n5OAKi4PMVPX-13">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#dfe3e8;strokeWidth=2.3;" vertex="1" parent="1">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeOpacity=0;fillOpacity=100;rounded=0;absoluteArcSize=1;arcSize=9;fillColor=#dfe3e8;strokeWidth=2.3;" vertex="1" parent="1">
             <mxGeometry x="-480" y="459" width="180" height="100" as="geometry" />
           </mxCell>
         </UserObject>
@@ -661,6 +670,269 @@
               <Array as="points" />
               <mxPoint x="-520.7299999999998" y="412.5" as="sourcePoint" />
               <mxPoint x="-539.27" y="444" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="l4v1rxcHMX9lKdqBh50z" name="Page-5">
+    <mxGraphModel dx="2978" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="P71-kpvjefQ02KRhllDk-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#97D077;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-830" y="510" width="480" height="250" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:15px;color:#ffffff;font-weight: bold;&quot;&gt;Personal Reserving Customer&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#ffffff;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size:8.3px;color:#ffffff;&quot;&gt;[Person]&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#ffffff;&quot;&gt;A customer who wants to reverse a parking spot&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="7wz7zbzjAWsJ" id="P71-kpvjefQ02KRhllDk-2">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#004faf;strokeWidth=2.3;" vertex="1" parent="1">
+            <mxGeometry x="-1000" y="110" width="180" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:15px;color:#ffffff;font-weight: bold;&quot;&gt;Personal Sharing Customer&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#ffffff;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size:8.3px;color:#ffffff;&quot;&gt;[Person]&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#ffffff;&quot;&gt;A customer who wants to share his/her parking spot&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="7wz7zbzjAWsJ" id="P71-kpvjefQ02KRhllDk-3">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#004faf;strokeWidth=2.3;" vertex="1" parent="1">
+            <mxGeometry x="-591" y="110" width="180" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; line-height: 1.25; margin-top: -2px; font-size: 0px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:15px;color:#ffffff;font-weight: bold;&quot;&gt;The Guard&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#ffffff;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size:8.3px;color:#ffffff;&quot;&gt;[Person]&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#ffffff;&quot;&gt;The guard helps to check in or check out the order&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="7wz7zbzjAWsJ" id="P71-kpvjefQ02KRhllDk-4">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#004faf;strokeWidth=2.3;" vertex="1" parent="1">
+            <mxGeometry x="-350" y="110" width="180" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:15px;color:#333333;font-weight: bold;&quot;&gt;Reverse Web Application&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size:8.3px;color:#333333;&quot;&gt;[Container: Node and Angular]&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 10px; background-color: initial;&quot;&gt;Reserve spare parking spot and generate order&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="ESz7o~NOM6BO" id="P71-kpvjefQ02KRhllDk-5">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#4d9eff;strokeWidth=2.3;" vertex="1" parent="1">
+            <mxGeometry x="-860" y="310" width="210" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; line-height: 1.25; margin-top: -2px; font-size: 0px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:15px;color:#333333;font-weight: bold;&quot;&gt;Search Web Application&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size:8.3px;color:#333333;&quot;&gt;[Container: Node and Angular]&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;&quot;&gt;Search the list of spare parking spots of different business area&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="ESz7o~NOM6BO" id="P71-kpvjefQ02KRhllDk-6">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#4d9eff;strokeWidth=2.3;" vertex="1" parent="1">
+            <mxGeometry x="-1140" y="310" width="210" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:15px;color:#333333;font-weight: bold;&quot;&gt;Order Web Application&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size:8.3px;color:#333333;&quot;&gt;[Container: Node and Angular]&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;&quot;&gt; Delivers the static content and the internet banking single page application&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="ESz7o~NOM6BO" id="P71-kpvjefQ02KRhllDk-7">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#4d9eff;strokeWidth=2.3;" vertex="1" parent="1">
+            <mxGeometry x="-330" y="310" width="210" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:15px;color:#333333;font-weight: bold;&quot;&gt;Share Web Application&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size:8.3px;color:#333333;&quot;&gt;[Container: Node and Angular]&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;&quot;&gt; Delivers the static content and the internet banking single page application&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="ESz7o~NOM6BO" id="P71-kpvjefQ02KRhllDk-8">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#4d9eff;strokeWidth=2.3;" vertex="1" parent="1">
+            <mxGeometry x="-580" y="310" width="210" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:15px;color:#333333;font-weight: bold;&quot;&gt;API Application&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size:8.3px;color:#333333;&quot;&gt;[Container: .Net ]&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;&quot;&gt; Provide core function&amp;nbsp; by RESTful API&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="nWz77IYYfrE6" id="P71-kpvjefQ02KRhllDk-9">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#4d9eff;strokeWidth=2.3;" vertex="1" parent="1">
+            <mxGeometry x="-810" y="520" width="180" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:15px;color:#333333;font-weight: bold;&quot;&gt;Database&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size:8.3px;color:#333333;&quot;&gt;[Container: MySQL]&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;&quot;&gt; Stores parking lot, parking spot information etc.&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="vWz77-hPuxWx" id="P71-kpvjefQ02KRhllDk-10">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=cylinder3;size=4;anchorPointDirection=0;boundedLbl=1;fontSize=13;spacing=3.8;strokeColor=#ffffff;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#4d9eff;strokeWidth=2.3;" vertex="1" parent="1">
+            <mxGeometry x="-1160" y="519" width="180" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:15px;color:#333333;font-weight: bold;&quot;&gt;Payment System&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size:8.3px;color:#333333;&quot;&gt;[Software System]&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;&quot;&gt; Provide the basic payment function for all roles payment and reconcliliation&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="7Vz7eOaU-oRB" id="P71-kpvjefQ02KRhllDk-11">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#dfe3e8;strokeWidth=2.3;" vertex="1" parent="1">
+            <mxGeometry x="-550" y="519" width="180" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:15px;color:#333333;font-weight: bold;&quot;&gt;Map System&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size:8.3px;color:#333333;&quot;&gt;[Software System]&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;&quot;&gt; Provide search, location and estimated distance service&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="7Vz7eOaU-oRB" id="P71-kpvjefQ02KRhllDk-12">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#dfe3e8;strokeWidth=2.3;" vertex="1" parent="1">
+            <mxGeometry x="-810" y="650" width="180" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:15px;color:#333333;font-weight: bold;&quot;&gt;Distribution System&lt;/span&gt;&lt;span style=&quot;font-size:16.7px;color:#333333;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size:8.3px;color:#333333;&quot;&gt;[Software System]&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size:10px;color:#333333;&quot;&gt; Provide AI technology for auto distributing space, aiming to increase the plot ratio of space&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="7Vz7eOaU-oRB" id="P71-kpvjefQ02KRhllDk-13">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#dfe3e8;strokeWidth=2.3;" vertex="1" parent="1">
+            <mxGeometry x="-550" y="649" width="180" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="LYz7PsufM9-5" id="P71-kpvjefQ02KRhllDk-14">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#5e5e5e;strokeOpacity=100;dashed=1;fixDash=1;strokeWidth=1.5;rounded=0;startArrow=none;endArrow=block;endFill=1;entryX=0.338;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="P71-kpvjefQ02KRhllDk-2" target="P71-kpvjefQ02KRhllDk-6">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+              <mxPoint x="-980" y="230" as="sourcePoint" />
+              <mxPoint x="-1090" y="330" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="P71-kpvjefQ02KRhllDk-15" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; line-height: 1.25; margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size: 10px; color: rgb(51, 51, 51); font-weight: bold;&quot;&gt;Visit 163.184.251.147/parkingspots&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:10px;color:#333333;&quot;&gt;[HTTP]&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;" vertex="1" parent="P71-kpvjefQ02KRhllDk-14">
+          <mxGeometry x="-0.3574455835723189" relative="1" as="geometry">
+            <mxPoint x="-11" y="39" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="" lucidchartObjectId="LYz7PsufM9-5" id="P71-kpvjefQ02KRhllDk-16">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#5e5e5e;strokeOpacity=100;dashed=1;fixDash=1;strokeWidth=1.5;rounded=0;startArrow=none;endArrow=block;endFill=1;entryX=0.565;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="P71-kpvjefQ02KRhllDk-2" target="P71-kpvjefQ02KRhllDk-5">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+              <mxPoint x="-800.0000000000002" y="210" as="sourcePoint" />
+              <mxPoint x="-749.02" y="299.7" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="P71-kpvjefQ02KRhllDk-17" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; line-height: 1.25; margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size: 10px; color: rgb(51, 51, 51); font-weight: bold;&quot;&gt;Visit 163.184.251.147/parkingspots/:id&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:10px;color:#333333;&quot;&gt;[HTTP]&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;" vertex="1" parent="P71-kpvjefQ02KRhllDk-16">
+          <mxGeometry x="-0.3574455835723189" relative="1" as="geometry">
+            <mxPoint x="26" y="38" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="" lucidchartObjectId="LYz7PsufM9-5" id="P71-kpvjefQ02KRhllDk-18">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#5e5e5e;strokeOpacity=100;dashed=1;fixDash=1;strokeWidth=1.5;rounded=0;startArrow=none;endArrow=block;endFill=1;exitX=0.525;exitY=1.001;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.4;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="P71-kpvjefQ02KRhllDk-3" target="P71-kpvjefQ02KRhllDk-8">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+              <mxPoint x="-470" y="220" as="sourcePoint" />
+              <mxPoint x="-496" y="300" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="P71-kpvjefQ02KRhllDk-19" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; line-height: 1.25; margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size: 10px; color: rgb(51, 51, 51); font-weight: bold;&quot;&gt;Visit 163.184.251.147/parkingspots/:id&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:10px;color:#333333;&quot;&gt;[HTTP]&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;" vertex="1" parent="P71-kpvjefQ02KRhllDk-18">
+          <mxGeometry x="-0.3574455835723189" relative="1" as="geometry">
+            <mxPoint x="4" y="14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="" lucidchartObjectId="LYz7PsufM9-5" id="P71-kpvjefQ02KRhllDk-20">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#5e5e5e;strokeOpacity=100;dashed=1;fixDash=1;strokeWidth=1.5;rounded=0;startArrow=none;endArrow=block;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.588;exitY=1.029;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="P71-kpvjefQ02KRhllDk-4">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+              <mxPoint x="-240.48000000000044" y="240.10000000000002" as="sourcePoint" />
+              <mxPoint x="-239.98000000000002" y="310" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="P71-kpvjefQ02KRhllDk-21" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; line-height: 1.25; margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size: 10px; color: rgb(51, 51, 51); font-weight: bold;&quot;&gt;Visit 163.184.251.147/parkingLotManager&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:10px;color:#333333;&quot;&gt;[HTTP]&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;" vertex="1" parent="P71-kpvjefQ02KRhllDk-20">
+          <mxGeometry x="-0.3574455835723189" relative="1" as="geometry">
+            <mxPoint y="39" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="" lucidchartObjectId="LYz7PsufM9-5" id="P71-kpvjefQ02KRhllDk-22">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#5e5e5e;strokeOpacity=100;dashed=1;fixDash=1;strokeWidth=1.5;rounded=0;startArrow=none;endArrow=block;endFill=1;" edge="1" parent="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+              <mxPoint x="-820" y="200" as="sourcePoint" />
+              <mxPoint x="-330" y="310" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="P71-kpvjefQ02KRhllDk-23" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; line-height: 1.25; margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size: 10px; color: rgb(51, 51, 51); font-weight: bold;&quot;&gt;Visit 163.184.251.147/parkingspotsOrder/:id&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:10px;color:#333333;&quot;&gt;[HTTP]&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="-680.0043501199033" y="230.00327022095013" as="geometry" />
+        </mxCell>
+        <UserObject label="" lucidchartObjectId="LYz7PsufM9-5" id="P71-kpvjefQ02KRhllDk-24">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#5e5e5e;strokeOpacity=100;dashed=1;fixDash=1;strokeWidth=1.5;rounded=0;startArrow=none;endArrow=block;endFill=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="P71-kpvjefQ02KRhllDk-5">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+              <mxPoint x="-930" y="359.52" as="sourcePoint" />
+              <mxPoint x="-879.02" y="359.52" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="LYz7PsufM9-5" id="P71-kpvjefQ02KRhllDk-25">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#5e5e5e;strokeOpacity=100;dashed=1;fixDash=1;strokeWidth=1.5;rounded=0;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.029;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="P71-kpvjefQ02KRhllDk-5" target="P71-kpvjefQ02KRhllDk-7">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="-755" y="440" />
+                <mxPoint x="-620" y="440" />
+                <mxPoint x="-500" y="440" />
+                <mxPoint x="-370" y="440" />
+                <mxPoint x="-330" y="440" />
+              </Array>
+              <mxPoint x="-770.0000000000002" y="449.9999999999998" as="sourcePoint" />
+              <mxPoint x="-280" y="410" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="LYz7PsufM9-5" id="P71-kpvjefQ02KRhllDk-26">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#5e5e5e;strokeOpacity=100;dashed=1;fixDash=1;strokeWidth=1.5;rounded=0;startArrow=none;endArrow=block;endFill=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="P71-kpvjefQ02KRhllDk-9">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+              <mxPoint x="-930" y="410" as="sourcePoint" />
+              <mxPoint x="-860" y="410.48" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="LYz7PsufM9-5" id="P71-kpvjefQ02KRhllDk-27">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#5e5e5e;strokeOpacity=100;dashed=1;fixDash=1;strokeWidth=1.5;rounded=0;startArrow=none;endArrow=block;endFill=1;exitX=0.635;exitY=1.018;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="P71-kpvjefQ02KRhllDk-5" target="P71-kpvjefQ02KRhllDk-9">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+              <mxPoint x="-780" y="410" as="sourcePoint" />
+              <mxPoint x="-710" y="410.48" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="LYz7PsufM9-5" id="P71-kpvjefQ02KRhllDk-28">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#5e5e5e;strokeOpacity=100;dashed=1;fixDash=1;strokeWidth=1.5;rounded=0;startArrow=none;endArrow=block;endFill=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="P71-kpvjefQ02KRhllDk-9">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+              <mxPoint x="-510" y="410" as="sourcePoint" />
+              <mxPoint x="-440" y="410.48" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="LYz7PsufM9-5" id="P71-kpvjefQ02KRhllDk-29">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#5e5e5e;strokeOpacity=100;dashed=1;fixDash=1;strokeWidth=1.5;rounded=0;startArrow=none;endArrow=block;endFill=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="P71-kpvjefQ02KRhllDk-9">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="-330" y="450" />
+              </Array>
+              <mxPoint x="-220" y="410" as="sourcePoint" />
+              <mxPoint x="-150" y="410.48" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="P71-kpvjefQ02KRhllDk-30" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; line-height: 1.25; margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size: 10px; color: rgb(51, 51, 51); font-weight: bold;&quot;&gt;Make HTTP calls&lt;/span&gt;&lt;/div&gt;" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="-860.0002649929843" y="470.0007044306077" as="geometry" />
+        </mxCell>
+        <mxCell id="P71-kpvjefQ02KRhllDk-31" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; line-height: 1.25; margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size: 10px; color: rgb(51, 51, 51); font-weight: bold;&quot;&gt;Make HTTP calls&lt;/span&gt;&lt;/div&gt;" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="-720.0002649929843" y="470.0007044306077" as="geometry" />
+        </mxCell>
+        <mxCell id="P71-kpvjefQ02KRhllDk-32" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; line-height: 1.25; margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size: 10px; color: rgb(51, 51, 51); font-weight: bold;&quot;&gt;Make HTTP calls&lt;/span&gt;&lt;/div&gt;" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="-600.0002649929843" y="470.0007044306077" as="geometry" />
+        </mxCell>
+        <mxCell id="P71-kpvjefQ02KRhllDk-33" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; line-height: 1.25; margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size: 10px; color: rgb(51, 51, 51); font-weight: bold;&quot;&gt;Make HTTP calls&lt;/span&gt;&lt;/div&gt;" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="-400.0002649929843" y="470.0007044306077" as="geometry" />
+        </mxCell>
+        <UserObject label="" lucidchartObjectId="LYz7PsufM9-5" id="P71-kpvjefQ02KRhllDk-34">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#5e5e5e;strokeOpacity=100;dashed=1;fixDash=1;strokeWidth=1.5;rounded=0;startArrow=none;endArrow=block;endFill=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="P71-kpvjefQ02KRhllDk-13">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+              <mxPoint x="-630.54" y="619.9299999999998" as="sourcePoint" />
+              <mxPoint x="-530" y="619.2299999999999" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="P71-kpvjefQ02KRhllDk-35" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; line-height: 1.25; margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size: 10px; color: rgb(51, 51, 51); font-weight: bold;&quot;&gt;Make RPC calls&lt;/span&gt;&lt;/div&gt;" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="-582.0002649929843" y="640.0007044306077" as="geometry">
+            <mxPoint x="-1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="" lucidchartObjectId="LYz7PsufM9-5" id="P71-kpvjefQ02KRhllDk-36">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#5e5e5e;strokeOpacity=100;dashed=1;fixDash=1;strokeWidth=1.5;rounded=0;startArrow=none;endArrow=block;endFill=1;entryX=0.998;entryY=0.47;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="P71-kpvjefQ02KRhllDk-9" target="P71-kpvjefQ02KRhllDk-10">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+              <mxPoint x="-896.5799999999999" y="566.8" as="sourcePoint" />
+              <mxPoint x="-820" y="571.2" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="P71-kpvjefQ02KRhllDk-37" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; line-height: 1.25; margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size: 10px; color: rgb(51, 51, 51); font-weight: bold;&quot;&gt;Reads from and writes to&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:10px;color:#333333;&quot;&gt;[EF]&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="-899.0006461178104" y="554.0022845198904" as="geometry" />
+        </mxCell>
+        <mxCell id="P71-kpvjefQ02KRhllDk-38" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; line-height: 1.25; margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size: 10px; color: rgb(51, 51, 51); font-weight: bold;&quot;&gt;Redirect to&lt;/span&gt;&lt;/div&gt;" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="-899.0002649929843" y="350.0007044306077" as="geometry" />
+        </mxCell>
+        <mxCell id="P71-kpvjefQ02KRhllDk-39" value="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; line-height: 1.25; margin-top: -2px;&quot;&gt;&lt;span style=&quot;font-size: 10px; color: rgb(51, 51, 51); font-weight: bold;&quot;&gt;Redirect to&lt;/span&gt;&lt;/div&gt;" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="-620.0002649929843" y="430.0007044306077" as="geometry" />
+        </mxCell>
+        <UserObject label="" lucidchartObjectId="LYz7PsufM9-5" id="P71-kpvjefQ02KRhllDk-40">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#5e5e5e;strokeOpacity=100;dashed=1;fixDash=1;strokeWidth=1.5;rounded=0;startArrow=none;endArrow=block;endFill=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.897;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="P71-kpvjefQ02KRhllDk-9" target="P71-kpvjefQ02KRhllDk-12">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+              <mxPoint x="-620.54" y="629.93" as="sourcePoint" />
+              <mxPoint x="-539.9999999999998" y="667.2719596575585" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="LYz7PsufM9-5" id="P71-kpvjefQ02KRhllDk-41">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#5e5e5e;strokeOpacity=100;dashed=1;fixDash=1;strokeWidth=1.5;rounded=0;startArrow=none;endArrow=block;endFill=1;exitX=1.004;exitY=0.981;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="P71-kpvjefQ02KRhllDk-9" target="P71-kpvjefQ02KRhllDk-11">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+              <mxPoint x="-590.7299999999998" y="602.5" as="sourcePoint" />
+              <mxPoint x="-609.27" y="634" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </UserObject>
